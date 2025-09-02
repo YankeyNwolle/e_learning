@@ -1,27 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
-
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box ;
 }
 
-header {
-    justify-content: space-between;
-    top: 0;
-    left: 0;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    padding : 2px 10%;
-    background-color: #f8f9fa;
-    position: fixed;
-    z-index: 100;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    
-}
 
-.logo {
-    width: 100px;
-    margin-left: -10%;
+nav ul {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
